@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#outside{
+  margin-top:200px;
+  margin-left:40%;
+}
+input{
+  font-size:14px;
+  width: 150px;
+  height:25px;
+}
+table {
+  border-collapse: collapse;
+  text-align: center;
+  width:250px;
+}
+.button{
+  display: inline-block;
+  padding: 10px 16px;
+  font-size:14px;
+  margin-bottom:0;
+  font-weight:bold;
+  line-height:1;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #0077d9;
+}
+
+table,th,td{
+  border-bottom: 1px solid #DBE2EF;
+  padding:10px;
+}
